@@ -80,7 +80,6 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    /* background-image: ;  */
     background-size:cover;
     background-position: center;
     display: flex;
@@ -212,7 +211,7 @@ header .sticky{
     border-radius: 5px;
     padding: 14px 6px 12px 6px;
     color: var(--text-color);
-    trabsition: all 0.55s ease;
+    transition: all 0.55s ease;
 
 }
 .Resume:hover{
